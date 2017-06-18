@@ -1,0 +1,118 @@
+﻿
+
+Projet annuel tutoré
+
+
+	Transparents de la réunion de rentrée : rentree_l3_projets_2015_v2.pdf
+	Liste de propositions de sujets de projet pour L3 2015-2016
+	
+
+Dates importantes
+
+
+	du 16 au 30 septembre : choix des sujets
+	Semaine du 19 octobre : présentation de la charte de projet et du backlog à Jean-Luc Lambert
+	3 décembre : livrable 1 + rapport d'avancement 1
+	4 février : livrable 2 + rapport d'avancement 2 + rapport à mi-parcours
+	21 mars : livrable 3 + avancement 3 + rapport final
+	23-25 mars : soutenance finale
+Les livrables et rapports devront être déposés sur Moodle.
+Notez bien que les 3 dates de rendu ne vous empêchent en aucun cas de vous ajouter d'autres jalons et livrables si vous l'estimez nécessaire.
+
+
+Ce que vous devez rendre
+
+
+
+Livrable
+
+C'est la version courante de votre code, qui remplit les fonctions que vous vous êtes engagé·es à fournir à cette date. Attention, les livrables doivent être auto-contenus et installables facilement. Par exemple pour un projet en Java on attend un .jar qui fonctionne tout seul, pas une archive de votre workspace Eclipse. Il est fondamental que vous compreniez ça ! Les client·es n'ont pas le même environnement que vous, et ni les connaissances techniques ni le temps nécessaires à l'adaptation de votre livrable à leur environnement.
+
+
+Rapport d'avancement
+
+C'est l'état courant de votre backlog, jalons et problèmes rencontrés. Typiquement ça fait deux pages, avec des tableaux ; ce n'est pas un vrai mémoire rédigé.
+
+
+Rapport final
+
+C'est un mémoire qui décrit votre projet : 
+	présentation du sujet (contexte, objectifs, problèmes particuliers, analyse du besoin…)
+	description de votre réalisation (interface, modèle, algorithmes, fonctionnement…)
+	description du déroulement (grandes étapes et planning, idées proposées et rejetées, problèmes rencontrés et solutions apportées)
+	bilan et conclusion (points forts et limites du travail, expérience acquise, perspectives…)
+Généralement ça fait une trentaine de pages, mais il n'y a pas de minimum requis (par pitié, ne pas pipoter pour faire du remplissage). On attend un certain recul ; expliquez vos choix, ne vous contentez pas de lister les noms des méthodes de vos classes.
+Le rapport doit être compréhensible par un lecteur informaticien non spécialiste, ne connaissant pas le domaine, par exemple un étudiant de licence informatique.
+
+
+Rapport à mi-parcours
+
+C'est une première version du rapport final (de l'ordre de 5 à 10 pages). Évidemment, il ne pourra pas être complet, mais vous pouvez déjà rédiger correctement tout ce qui concerne le contexte ainsi que le déroulement de la première partie du projet. L'objectif est de pouvoir en réutiliser un maximum dans le rapport final.
+
+
+Soutenance
+
+
+
+Déroulement
+
+La soutenance dure 30 minutes, ce qui comprend 20 minutes de présentation et 10 minutes de questions du jury (constitué de votre tuteur et d'un·e autre enseignant·e). Il ne vous sera pas demandé de remettre votre support visuel, ni avant ni après la soutenance. Nous mettrons à votre disposition un portable du département sous Ubuntu, mais vous pourrez venir avec votre machine.
+Les soutenances sont publiques et il est recommandé d'y assister, notamment pour voir un peu ce qui a été fait, nourrir sa culture informatique et se renseigner sur ce qu'il faut et ne faut pas faire dans un projet / une soutenance / un rapport.
+
+
+Contenu de la soutenance
+
+La soutenance est un exercice «académique», elle ne s'adresse pas à votre client·e (contrairement à la soutenance de charte) mais au jury et au public. Elle reprend les principaux éléments du rapport (présentation du sujet, réalisation, déroulement du projet, bilan), sans forcément le suivre à la lettre ni rentrer dans les détails. La présentation peut inclure une démonstration de votre travail, mais il ne faut pas que ce soit trop long (5 minutes maximum), et il faut qu'elle soit préparée pour être efficace, au même titre que la présentation. Vous trouverez ici quelques conseils pour la préparation d'une soutenance.
+
+
+Notation
+
+La note de projet est la somme des notes suivantes, certaines étant données par Jean-Luc Lambert, d'autres par votre tuteur, et d'autres par le jury constitué de votre tuteur et d'un·e autre enseignant·e. 
+	Charte de projet : sur 1 (Jean-Luc Lambert)
+	Backlog : sur 1 (Jean-Luc Lambert)
+	Rapports d'avancement et respect des jalons : sur 1 (tuteur)
+	Rapport à mi-parcours : sur 2 (tuteur)
+	Rapport final : sur 4 (jury)
+	Soutenance : sur 4 (jury)
+	Travail réalisé : sur 7 (jury)
+En ce qui concerne la note de respect des jalons, notez bien que ce qui compte avant tout dans la conduite de projet, c'est la communication : tant pis si le livrable ne remplit pas exactement les fonctions prévues, tant pis si vous avez un peu de retard à la livraison, à condition de communiquer à temps avec votre client·e et de vous justifier.
+
+
+Conseils
+
+
+
+Système de gestion de versions
+
+Il est très important que vous utilisiez un système de gestion de version. La forge est prévue pour cela, elle intègre un dépôt SVN ; demandez à votre tuteur de vous créer un projet (ou demandez-le-moi). C'est très pratique, pour gérer les versions évidemment (pouvoir revenir en arrière, ne pas risquer de perdre son travail, etc.) mais aussi pour travailler chacun de votre côté, et aussi pour communiquer avec votre tuteur, qui a ainsi toujours accès à votre code facilement pour vous aider en cas de bug ou autre problème. Le projet annuel est une excellente occasion d'apprendre à se servir de ce type d'outil dans le cadre d'un vrai projet ; c'est une expérience qui vous sera utile, à toutes et tous, dans votre vie professionnelle.
+
+
+Gestion du temps
+
+Vous êtes responsables de votre projet — et pas votre tuteur. C'est un projet annuel, mais l'année est très courte (6 mois), mars va arriver très vite. Il est très fortement conseillé de vous mettre d'accord avec votre tuteur sur un rythme régulier de réunions, ce qui vous incitera à avancer tout au long de l'année. À défaut, prenez au moins l'habitude à la fin de chaque réunion de prévoir la date de la suivante.
+
+
+Archive des sujets de projet des années précédentes
+
+	Propositions de sujets de projet pour L3 2014-2015
+	Propositions de sujets de projet pour L3 2013-2014
+	Propositions de sujets de projet pour L3 2012-2013
+rentree_l3_projets_2015.pdf - Description du module et de son déroulement (22,635 ko) Alexandre Niveau, 24/08/2015 16:46 
+rentree_l3_projets_2015_v2.pdf - Description du module et de son déroulement — dernière version (22,775 ko) Alexandre Niveau, 21/09/2015 13:29 
+
+
+
+
+﻿
+
+Préparation d'une soutenance orale
+
+
+Pour toute soutenance orale, il est impératif de répéter seul avant de se présenter devant un auditoire.
+	Il faut pour cela se mettre debout, en situation de s'exprimer devant le jury (les enseignants) et les autres étudiants, puis simuler la soutenance.
+	Le discours doit être intelligible (ne pas se tourner vers l'écran, sauf pour montrer un élément, utiliser l'ordinateur devant soi) et fluide.
+	Cet exercice demande plusieurs répétitions, au fur et à mesure desquelles le discours et les transitions s'affinent. La durée doit converger vers le temps imparti.
+	Pendant les répétitions, il est conseillé de corriger et noter les phrases essentielles ou celles sur lesquelles on a bafouillé.
+
+
+

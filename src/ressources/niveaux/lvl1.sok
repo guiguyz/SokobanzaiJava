@@ -1,0 +1,37 @@
+#######
+#   $.#
+#  @  #
+#######
+Author: Marwan & Guillaume
+Comment:
+color purple
+Comment-End:
+
+
+# = mur
+@ = perso
+$ = caisse
+. = objectif
+* = caisse sur objectif
+
+###################
+#.    @ #       . #
+#       #         #
+#     $ #  $      #
+#  ######         #
+#                 #
+#          $      #
+#    $            #
+#    #.#        . #
+###################
+Author: Marwan & Guillaume
+Comment:
+color purple
+Comment-End:
+
+
+# = mur
+@ = perso
+$ = caisse
+. = objectif
+* = caisse sur objectif

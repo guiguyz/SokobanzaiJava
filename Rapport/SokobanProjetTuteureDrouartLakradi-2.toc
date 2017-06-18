@@ -1,0 +1,33 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Introduction:}{2}
+\contentsline {subsection}{\numberline {1.1}Contexte}{2}
+\contentsline {subsubsection}{\numberline {1.1.1}Objectifs du projet}{2}
+\contentsline {subsubsection}{\numberline {1.1.2}\IeC {\'E}quipe Mod\IeC {\`e}les, Agents, D\IeC {\'e}cision}{2}
+\contentsline {subsubsection}{\numberline {1.1.3}Qu'est-ce que le Sokoban ?}{3}
+\contentsline {subsection}{\numberline {1.2}Analyse du besoin}{4}
+\contentsline {subsubsection}{\numberline {1.2.1}Fonctionnalit\IeC {\'e}s \IeC {\`a} r\IeC {\'e}aliser}{4}
+\contentsline {subsubsection}{\numberline {1.2.2}Demande initiale}{4}
+\contentsline {subsubsection}{\numberline {1.2.3}Le cahier des charges}{4}
+\contentsline {section}{\numberline {2}R\IeC {\'e}alisation}{5}
+\contentsline {subsection}{\numberline {2.1}interface}{5}
+\contentsline {subsection}{\numberline {2.2}mod\IeC {\`e}le}{6}
+\contentsline {subsection}{\numberline {2.3}La conception technique}{9}
+\contentsline {subsubsection}{\numberline {2.3.1}Pattern MVP}{9}
+\contentsline {subsubsection}{\numberline {2.3.2}Diagramme Modele}{10}
+\contentsline {subsubsection}{\numberline {2.3.3}Diagramme Vue}{11}
+\contentsline {section}{\numberline {3}Intelligence Artificielle}{12}
+\contentsline {subsection}{\numberline {3.1}Qu'est-ce que l'intelligence artificielle ?}{12}
+\contentsline {subsubsection}{\numberline {3.1.1}D\IeC {\'e}finition}{12}
+\contentsline {subsubsection}{\numberline {3.1.2}Historique}{12}
+\contentsline {subsection}{\numberline {3.2}L'algorithme A *}{13}
+\contentsline {subsection}{\numberline {3.3}Notre IA}{14}
+\contentsline {subsection}{\numberline {3.4}Diagramme IA}{19}
+\contentsline {section}{\numberline {4}Description du d\IeC {\'e}roulement}{20}
+\contentsline {subsection}{\numberline {4.1}Grandes \IeC {\'e}tapes et plannings}{20}
+\contentsline {subsection}{\numberline {4.2}Id\IeC {\'e}es propos\IeC {\'e}es et rejet\IeC {\'e}es}{20}
+\contentsline {subsection}{\numberline {4.3}Probl\IeC {\`e}mes rencontr\IeC {\'e}s et solutions apport\IeC {\'e}es}{20}
+\contentsline {subsection}{\numberline {4.4}Gestion du projet : organisation et r\IeC {\'e}partition des t\IeC {\^a}ches}{20}
+\contentsline {subsubsection}{\numberline {4.4.1}Forge SVN}{20}
+\contentsline {subsubsection}{\numberline {4.4.2}Organisation et r\IeC {\'e}partition des t\IeC {\^a}ches}{20}
+\contentsline {section}{\numberline {5}Bilan et Conclusion}{21}
+\contentsline {section}{\numberline {6}Sources et Documentations}{22}

@@ -1,0 +1,19 @@
+   #############
+#### $       . ####
+#@ #       #      #
+#  $     #      $ #
+#######.   .########
+      #     #
+      #  $  #####
+      #        .#
+      ###########
+Author: Kevin B. Reilly
+Comment:
+color aqua
+Comment-End:
+
+@ : perso
+. : obj
+# : mur
+$ : caisse
+* : caisse sur obj
